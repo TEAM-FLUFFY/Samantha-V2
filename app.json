@@ -21,15 +21,15 @@
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": "5100785906:AAGmo4G7IWSgKI6um4Sldzi9SCtQTWLKyBE"
+            "value": "5296447642:AAET1bSUkmvtQLjh3BWXBNtpM6E9qH7f6nc"
         },
         "DB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": "mongodb+srv://KP:KP@cluster0.vykjz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+            "value": "mongodb+srv://KP:KP@cluster0.vykjz.mongodb.net/myFirstDatabase?retryWrites=true&w=majorityy"
         },
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
-            "value": "BQC_GUQGPwBODE-xCv3dj6gyOoA4B8cr6Wa4gEdoFi6aPrPBwcNLqwdmKZNtddrKxMOsHpmouPrIET4Xz73ZknAFYnObJaErZl4QtUFzl63UbJ0rXIl0m4HfByu_TUQPkLmZcxYpgOmqCffZT7_lf5m3lD8JfojmKZs92Zr0HNv5pDtZL8e7rEgA4fr9phVQ0tw7nx0An4KCUQSy87xeCuaUlO1sZL6fb0PY8XQVVY89U_jPDQC9_2AMdUuwYwoF4CR3D6vK5CL-iFz2MiVn84O_5m0iysu4sy3uTh6F7WmM4dlY_fu_qDgRh0mCtIMxtP-OWpj4LXugrUk_buEthP9uAAAAATH84KsA"
+            "value": "BQCIERe3yA1fJviPx3gOut7LJZWi87ChQUCV9ueR_a-vIErHWWTN7T-1yScGNLFC_oWBi5NFKK3sYP2gIxhEnmIGTrQ3tBeGPitP4HNX21EshHjAJS07alnPLC1W1ziIITWCwasIYeaftnrrfOl3sz9cXAL7gcKEQDs1OSW_Axh4PWAuuXSE8vNGSybumOZGkoY2xmtd2cX0ykq58toY_YEsRWKq09kMd_aMFnhgvJ42FxA-gNEG7mz51ZuG4lIkhW2wUhvjgWw-Ij0iRnpE1pZqmQZvoMeeRXifHLs0jKCph6pXOCiKRamddu68cdIiz2Vl8hbpXxPuIUQPHOVgYQ5-AAAAATH84KsA"
         }
     },
     "buildpacks": [
